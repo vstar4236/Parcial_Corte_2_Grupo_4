@@ -1,0 +1,6 @@
+id_producto,precio,stock,nit_proveedor,nombre_producto,categoria
+1,25000,100,900111,Cafe Tostado,Grano
+2,3000,50,800222,Pan Blandito,Panaderia
+3,4500,80,700333,Leche Entera,Lacteos
+4,12000,20,500555,Miel Organica,Dulces
+5,8000,40,500555,Aroma Canela,Especias

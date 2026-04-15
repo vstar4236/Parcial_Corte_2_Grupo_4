@@ -1,0 +1,6 @@
+id_cliente,cliente_info,email,telefono,edad,fecha_nacimiento
+101,Diego Zuluaga - Profesor,diego@correo.com,3001112233,42,1984-07-07
+102,ana gomez - estudiante,ana@gmail.com,,21,2005-02-15
+103,CARLOS RUIZ - PROFESOR,cruiz@empresa.co,3112223344,38,
+104,Maria Lopez - Estudiante,,3154445566,20,2006-11-20
+105,LUIS PEREZ - Externo,luis.p@correo.com,,45,1981-05-10
